@@ -29,7 +29,6 @@
 
 | 我想做什么 | 推荐入口 | 从哪一步开始 |
 | --- | --- | --- |
-| 练习编程与算法 | [算法学习资料](https://github.com/PKUAFT/AFT-leetcode-master) | 选择一个专题，完成练习并记录解题思路 |
 | 学习完整的竞赛研究流程 | [2024 竞赛复现内培](https://github.com/PKUAFT/AFT-2024-Competition-Reproduction-Training) | 从 EDA 开始，依次阅读特征工程与模型代码 |
 | 研究更多模型与训练方法 | [2025 竞赛复现内培](https://github.com/PKUAFT/AFT-2025-Competition-Reproduction-Training) | 选择一个模型，梳理数据输入、时间切分与训练过程 |
 
@@ -42,7 +41,6 @@
 
 ### 学习资源与协会作品
 
-- **[AFT LeetCode Master](https://github.com/PKUAFT/AFT-leetcode-master)**：Fork 自「代码随想录」的算法学习资料，原始内容及贡献归属请参阅上游项目。
 - **[Festive Greetings](https://github.com/PKUAFT/AFT-Festive-Greetings)**：使用 JavaScript、HTML、Python 等语言创作的节日祝福作品。
 
 ## 参与贡献
